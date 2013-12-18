@@ -2,7 +2,7 @@
 
 /*
 
-Plugin Name: ZOMBI Bootsrap Usermenu Widget
+Plugin Name: ZOMBI Bootstrap Usermenu Widget
 
 Plugin URI: http://zombimedia.com/
 
